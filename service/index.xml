@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Attorney | Loepp</title>
+    <link>/service/</link>
+    <description>Recent content in Services on Attorney | Loepp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Areas of Practice</title>
+      <link>/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/service1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Civil Litigation and Business Counseling&lt;/li&gt;
+&lt;li&gt;Appeals&lt;/li&gt;
+&lt;li&gt;Probate Litigation&lt;/li&gt;
+&lt;li&gt;Real Estate&lt;/li&gt;
+&lt;li&gt;Employment&lt;/li&gt;
+&lt;li&gt;Criminal Law&lt;/li&gt;
+&lt;li&gt;Juvenile Law&lt;/li&gt;
+&lt;li&gt;Bankruptcy Litigation&lt;/li&gt;
+&lt;li&gt;Foreclosure Litigation and Counseling&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bar Admissions</title>
+      <link>/service/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/service2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ohio, 1990&lt;/li&gt;
+&lt;li&gt;U.S. Court of Appeals 6th Circuit, 1992&lt;/li&gt;
+&lt;li&gt;U.S. District Court Northern District of Ohio, 1992&lt;/li&gt;
+&lt;li&gt;U.S. Supreme Court, 2001&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/service3/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Universidad Complutense - 1984&lt;/li&gt;
+&lt;li&gt;Indiana University - 1984&lt;/li&gt;
+&lt;li&gt;University of Akron - 1990&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Professional Associations and Memberships</title>
+      <link>/service/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/service4/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Akron Bar Association&lt;/li&gt;
+&lt;li&gt;Ohio State Bar Association&lt;/li&gt;
+&lt;li&gt;Stow-Munroe Falls Chamber of Commerce&lt;/li&gt;
+&lt;li&gt;Stow-Munroe Falls Rotary Club&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
