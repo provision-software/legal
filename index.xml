@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attorney | Loepp</title>
-    <link>provision-software.github.io/legal/</link>
+    <link>/legal/</link>
     <description>Recent content on Attorney | Loepp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="provision-software.github.io/legal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/legal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>provision-software.github.io/legal/about/</link>
+      <link>/legal/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>provision-software.github.io/legal/about/</guid>
+      <guid>/legal/about/</guid>
       <description>My goal is to provide you with the highest quality legal advice for your situation. With more than 20 years of experience, I have represented clients in a wide variety of cases. Whether starting a business, protecting wealth and family or involvement in litigation, together we can develop a plan based on your needs. When litigation issues arise, I will work quickly and expeditiously to eliminate the problem and plan ways to avoid future legal complications.</description>
     </item>
     
     <item>
       <title>Vivamus Lacus Mauris</title>
-      <link>provision-software.github.io/legal/post/vivamus-lacus-mauris/</link>
+      <link>/legal/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
       
-      <guid>provision-software.github.io/legal/post/vivamus-lacus-mauris/</guid>
+      <guid>/legal/post/vivamus-lacus-mauris/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
     </item>
     
     <item>
       <title>Areas of Practice</title>
-      <link>provision-software.github.io/legal/service/service1/</link>
+      <link>/legal/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>provision-software.github.io/legal/service/service1/</guid>
+      <guid>/legal/service/service1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Civil Litigation and Business Counseling&lt;/li&gt;
 &lt;li&gt;Appeals&lt;/li&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Bar Admissions</title>
-      <link>provision-software.github.io/legal/service/service2/</link>
+      <link>/legal/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>provision-software.github.io/legal/service/service2/</guid>
+      <guid>/legal/service/service2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Ohio, 1990&lt;/li&gt;
 &lt;li&gt;U.S. Court of Appeals 6th Circuit, 1992&lt;/li&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>Education</title>
-      <link>provision-software.github.io/legal/service/service3/</link>
+      <link>/legal/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>provision-software.github.io/legal/service/service3/</guid>
+      <guid>/legal/service/service3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Universidad Complutense - 1984&lt;/li&gt;
 &lt;li&gt;Indiana University - 1984&lt;/li&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Professional Associations and Memberships</title>
-      <link>provision-software.github.io/legal/service/service4/</link>
+      <link>/legal/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>provision-software.github.io/legal/service/service4/</guid>
+      <guid>/legal/service/service4/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Akron Bar Association&lt;/li&gt;
 &lt;li&gt;Ohio State Bar Association&lt;/li&gt;
