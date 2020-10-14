@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/legal/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/legal/</loc>
+    <loc>/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/legal/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/legal/post/vivamus-lacus-mauris/</loc>
+    <loc>/post/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/legal/service/service1/</loc>
+    <loc>/service/service1/</loc>
   </url>
   
   <url>
-    <loc>/legal/service/service2/</loc>
+    <loc>/service/service2/</loc>
   </url>
   
   <url>
-    <loc>/legal/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/legal/service/service3/</loc>
+    <loc>/service/service3/</loc>
   </url>
   
   <url>
-    <loc>/legal/service/service4/</loc>
+    <loc>/service/service4/</loc>
   </url>
   
   <url>
-    <loc>/legal/service/</loc>
+    <loc>/service/</loc>
   </url>
   
   <url>
-    <loc>/legal/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
