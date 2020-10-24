@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Attorney | Loepp</title>
+    <title>Jiannetti Law</title>
     <link>/</link>
-    <description>Recent content on Attorney | Loepp</description>
+    <description>Recent content on Jiannetti Law</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My goal is to provide you with the highest quality legal advice for your situation. With more than 20 years of experience, I have represented clients in a wide variety of cases. Whether starting a business, protecting wealth and family or involvement in litigation, together we can develop a plan based on your needs. When litigation issues arise, I will work quickly and expeditiously to eliminate the problem and plan ways to avoid future legal complications.</description>
+      <description>When it comes to protecting your interests you need an attorney that is there for you, communicates with you, and treats you like a valued customer.
+Whether you are facing difficult circumstances now, or you are planning for the future, your lawyer should work for you. As a sole practitioner I devote my time and energy to my clients. I pride myself on being available, easy to talk to, and responding promptly to my clients’ phone calls and requests.</description>
     </item>
     
     <item>
@@ -36,15 +37,16 @@
       
       <guid>/service/service1/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Civil Litigation and Business Counseling&lt;/li&gt;
-&lt;li&gt;Appeals&lt;/li&gt;
-&lt;li&gt;Probate Litigation&lt;/li&gt;
-&lt;li&gt;Real Estate&lt;/li&gt;
-&lt;li&gt;Employment&lt;/li&gt;
-&lt;li&gt;Criminal Law&lt;/li&gt;
-&lt;li&gt;Juvenile Law&lt;/li&gt;
-&lt;li&gt;Bankruptcy Litigation&lt;/li&gt;
-&lt;li&gt;Foreclosure Litigation and Counseling&lt;/li&gt;
+&lt;li&gt;Business Organizations&lt;/li&gt;
+&lt;li&gt;Elder Law&lt;/li&gt;
+&lt;li&gt;Estate Planning&lt;/li&gt;
+&lt;li&gt;Motor Vehicle Accidents (Plaintiff)&lt;/li&gt;
+&lt;li&gt;Personal Injury (Plaintiff)&lt;/li&gt;
+&lt;li&gt;Probate and Estate Administration&lt;/li&gt;
+&lt;li&gt;Real Estate Law&lt;/li&gt;
+&lt;li&gt;Trusts&lt;/li&gt;
+&lt;li&gt;Wills&lt;/li&gt;
+&lt;li&gt;Workers&amp;rsquo; Compensation Law&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -55,10 +57,9 @@
       
       <guid>/service/service2/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Ohio, 1990&lt;/li&gt;
-&lt;li&gt;U.S. Court of Appeals 6th Circuit, 1992&lt;/li&gt;
-&lt;li&gt;U.S. District Court Northern District of Ohio, 1992&lt;/li&gt;
-&lt;li&gt;U.S. Supreme Court, 2001&lt;/li&gt;
+&lt;li&gt;Ohio, 1982&lt;/li&gt;
+&lt;li&gt;Florida, 1983&lt;/li&gt;
+&lt;li&gt;U.S. District Court Northern District of Ohio, 1982&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -69,24 +70,20 @@
       
       <guid>/service/service3/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Universidad Complutense - 1984&lt;/li&gt;
-&lt;li&gt;Indiana University - 1984&lt;/li&gt;
-&lt;li&gt;University of Akron - 1990&lt;/li&gt;
+&lt;li&gt;John Carroll University - 1976&lt;/li&gt;
+&lt;li&gt;Cleveland State University - 1982&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
-      <title>Professional Associations and Memberships</title>
+      <title>Location</title>
       <link>/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/service4/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Akron Bar Association&lt;/li&gt;
-&lt;li&gt;Ohio State Bar Association&lt;/li&gt;
-&lt;li&gt;Stow-Munroe Falls Chamber of Commerce&lt;/li&gt;
-&lt;li&gt;Stow-Munroe Falls Rotary Club&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Michael A. Jiannetti Co., LPA&lt;/strong&gt;&lt;br&gt;
+6449 Wilson Mills Road&lt;br&gt;
+Mayfield Village, Ohio 44143&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Attorney | Loepp</title>
+    <title>Services on Jiannetti Law</title>
     <link>/service/</link>
-    <description>Recent content in Services on Attorney | Loepp</description>
+    <description>Recent content in Services on Jiannetti Law</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,15 +17,16 @@
       
       <guid>/service/service1/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Civil Litigation and Business Counseling&lt;/li&gt;
-&lt;li&gt;Appeals&lt;/li&gt;
-&lt;li&gt;Probate Litigation&lt;/li&gt;
-&lt;li&gt;Real Estate&lt;/li&gt;
-&lt;li&gt;Employment&lt;/li&gt;
-&lt;li&gt;Criminal Law&lt;/li&gt;
-&lt;li&gt;Juvenile Law&lt;/li&gt;
-&lt;li&gt;Bankruptcy Litigation&lt;/li&gt;
-&lt;li&gt;Foreclosure Litigation and Counseling&lt;/li&gt;
+&lt;li&gt;Business Organizations&lt;/li&gt;
+&lt;li&gt;Elder Law&lt;/li&gt;
+&lt;li&gt;Estate Planning&lt;/li&gt;
+&lt;li&gt;Motor Vehicle Accidents (Plaintiff)&lt;/li&gt;
+&lt;li&gt;Personal Injury (Plaintiff)&lt;/li&gt;
+&lt;li&gt;Probate and Estate Administration&lt;/li&gt;
+&lt;li&gt;Real Estate Law&lt;/li&gt;
+&lt;li&gt;Trusts&lt;/li&gt;
+&lt;li&gt;Wills&lt;/li&gt;
+&lt;li&gt;Workers&amp;rsquo; Compensation Law&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -36,10 +37,9 @@
       
       <guid>/service/service2/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Ohio, 1990&lt;/li&gt;
-&lt;li&gt;U.S. Court of Appeals 6th Circuit, 1992&lt;/li&gt;
-&lt;li&gt;U.S. District Court Northern District of Ohio, 1992&lt;/li&gt;
-&lt;li&gt;U.S. Supreme Court, 2001&lt;/li&gt;
+&lt;li&gt;Ohio, 1982&lt;/li&gt;
+&lt;li&gt;Florida, 1983&lt;/li&gt;
+&lt;li&gt;U.S. District Court Northern District of Ohio, 1982&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -50,24 +50,20 @@
       
       <guid>/service/service3/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Universidad Complutense - 1984&lt;/li&gt;
-&lt;li&gt;Indiana University - 1984&lt;/li&gt;
-&lt;li&gt;University of Akron - 1990&lt;/li&gt;
+&lt;li&gt;John Carroll University - 1976&lt;/li&gt;
+&lt;li&gt;Cleveland State University - 1982&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
-      <title>Professional Associations and Memberships</title>
+      <title>Location</title>
       <link>/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/service4/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Akron Bar Association&lt;/li&gt;
-&lt;li&gt;Ohio State Bar Association&lt;/li&gt;
-&lt;li&gt;Stow-Munroe Falls Chamber of Commerce&lt;/li&gt;
-&lt;li&gt;Stow-Munroe Falls Rotary Club&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Michael A. Jiannetti Co., LPA&lt;/strong&gt;&lt;br&gt;
+6449 Wilson Mills Road&lt;br&gt;
+Mayfield Village, Ohio 44143&lt;/p&gt;</description>
     </item>
     
   </channel>
